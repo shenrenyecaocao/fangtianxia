@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2ff1a9f-2c15-4949-8631-a7b034c7a274" name="Default" comment="" />
+    <list default="true" id="b2ff1a9f-2c15-4949-8631-a7b034c7a274" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/fangtianxia/spiders/ftx.py" beforeDir="false" afterPath="$PROJECT_DIR$/fangtianxia/spiders/ftx.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,8 @@
       <file leaf-file-name="ftx.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fangtianxia/spiders/ftx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="200">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -87,6 +89,9 @@
       <find>小区地址</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -103,6 +108,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -209,9 +215,9 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.29588607" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32753164" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838285" />
       <window_info anchor="bottom" auto_hide="true" x="11" y="230" width="1344" height="267" id="Python Console" order="12" show_stripe_button="false" weight="0.44059405" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26898733" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26898733" />
       <window_info id="Structure" order="1" sideWeight="0.22167487" side_tool="true" weight="0.16220239" />
       <window_info anchor="bottom" x="11" y="206" width="1344" height="316" id="Terminal" order="9" show_stripe_button="false" type="WINDOWED" weight="0.5214521" />
       <window_info id="Favorites" order="2" sideWeight="0.50574714" side_tool="true" weight="0.16220239" />
@@ -295,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fangtianxia/spiders/ftx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="200">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>

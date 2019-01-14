@@ -19,10 +19,10 @@ class FangTianXiaSpider(scrapy.Spider):
         for url in url_list[:1]:
             yield Request(url, callback=self.parse_info)
 
-        # next_url = response.xpath('//a[@id="PageControl1_hlk_next"]/@href').extract_first()
-        # if next_url is not None:
-        #     next_url = "https://xian.esf.fang.com{}".format(next_url)
-        #     yield scrapy.Request(next_url, callback=self.parse)
+        next_url = response.xpath('//a[@id="PageControl1_hlk_next"]/@href').extract_first()
+        if next_url is not None:
+            next_url = "https://xian.esf.fang.com{}".format(next_url)
+            yield scrapy.Request(next_url, callback=self.parse)
 
     def parse_info(self, response):
         item = FangtianxiaItem()
